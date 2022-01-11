@@ -14,3 +14,4 @@ Observer - class WatchList
 Command - the 5 state-modifying actions, redo() and undo()
 ## Diagram
 ### State Diagram
+![alt text](https://github.com/lhcdhr/Movie-Library-V5-Software-Design/blob/main/state%20diagram.state.png)
