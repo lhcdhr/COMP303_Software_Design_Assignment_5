@@ -10,7 +10,7 @@ The 5th assignment of COMP303 Software Design
     5) reset(), the current movie will become the first one in the watchlist
 3. There is a redo() method and an undo() method that works like redo and undo in Microsoft Word. The basic undo and redo can be done in order to restore a state. If the no action is done after calling undo(), then redo() can be called for multiple times, and will result in repeating redo the undone action, just like in Microsoft Word.
 ## Design
-Observer - class WatchList
+Observer - class WatchList  
 Command - the 5 state-modifying actions, redo() and undo()
 ## Diagram
 ### State Diagram
